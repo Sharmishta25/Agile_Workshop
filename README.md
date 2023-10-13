@@ -1,6 +1,10 @@
 # Agile_Workshop
 
-# Agile_Workshop
+# Top contributors
+<a href="https://github.com/Ansumanbhujabal/Agile_Workshop/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ansumanbhujabal/Agile_Workshop" />
+</a>
+
 
 # Git and GitHub Workshop
 
