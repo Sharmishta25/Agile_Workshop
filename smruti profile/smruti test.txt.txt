@@ -1,0 +1,7 @@
+question 1 - ans-mkdir
+2 - ls -a
+3 - git init
+4 - touch filename.txt
+5 - cat filename.txt
+6 - git -  means it store the history of files or anything we change after the file save it will change automatically in his accountprofile 
+github menas it  is a version control
